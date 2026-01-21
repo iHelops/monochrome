@@ -179,7 +179,7 @@ const base = () => {
       'symbolIcon.variableForeground': 0.5686274509803921,
       'tab.activeBackground': 0.0392156862745098,
       'tab.activeForeground': 0.7490196078431373,
-      'tab.border': 0.0745098039,
+      'tab.border': 0.0392156862745098,
       'tab.inactiveBackground': 0,
       'tab.inactiveForeground': 0.23921568627450981,
       'terminal.ansiBlack': '#000000',
